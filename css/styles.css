@@ -219,7 +219,7 @@ footer{
 }
 
 
-
+/*Mobile*/
 .container-labels{
     display: flex;
     justify-content: center;
@@ -340,7 +340,7 @@ footer{
   background-position: center;
   }   
   /*--TABLETS*/
-  @media (min-width:768px) {/*--TABLETS*/
+  @media (min-width:768px) {
   .uno, .dos, .tres, .cuatro, .cinco, .seis, .siete, .ocho{
      height: 200px;
     }
@@ -413,8 +413,6 @@ footer{
       }
     }
   
-    
- 
     @media (min-width: 992px) {
    
         .padre-banners2{
@@ -430,9 +428,6 @@ footer{
         gap: 10px;
         margin-left: 20px;
       }
-     
-  
- 
   
     footer{
       background-color: #81B214;
